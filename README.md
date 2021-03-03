@@ -1,2 +1,2 @@
-# Unity-C--Survival-Guide
+# Unity-C-Sharp-Survival-Guide
 Learning C# in Unity
